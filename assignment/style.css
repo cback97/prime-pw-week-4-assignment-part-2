@@ -20,11 +20,17 @@ body {
 }
 
 .intro {
+    background-color: lightslategray;
     color: floralwhite;
     font-family: 'Noto Sans TC', sans-serif;
+    margin-left: 128px;
+    margin-right: 128px;
 }
 
 .vehicleScript {
-    font-family: 'Nunito Sans', Helvetica, sans-serif;
+    background-color: lightslategray;
     color: floralwhite;
+    font-family: 'Nunito Sans', Helvetica, sans-serif;
+    margin-left: 128px;
+    margin-right: 128px;
 }
