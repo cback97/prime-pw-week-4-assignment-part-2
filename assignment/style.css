@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color:lightsteelblue;
+}
+
+.header {
+    background-color: cyan;
+    border-style: groove;
+    border-width: 4px;
+    border-color: cyan;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.details {
+    border-style: groove;
+    border-width: 4px;
+    border-color: cyan;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.intro {
+    color: floralwhite;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.vehicleScript {
+    font-family: 'Nunito Sans', Helvetica, sans-serif;
+    color: floralwhite;
+}
+

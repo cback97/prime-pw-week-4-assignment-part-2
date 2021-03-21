@@ -10,7 +10,6 @@ This week we'll be pulling together all of the Javascript techniques you've lear
 - functions
 - HTML & CSS
 
-
 ## Assignment - Styling with `CSS` 
 
 Now let's practice some CSS! For this, you will update the index.html file and create a new CSS Stylesheet. 
